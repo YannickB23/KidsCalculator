@@ -39,7 +39,7 @@ namespace Calculator
             operation = button.Text;
             value = Double.Parse(displayResult.Text);
             operationPressed = true;
-            //equation.Text = value + " " + operation;
+            equation.Text = value + " " + operation;
         }
         private void equals_Click(object sender, EventArgs e)
         {

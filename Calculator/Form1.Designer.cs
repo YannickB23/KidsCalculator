@@ -302,12 +302,12 @@ namespace Calculator
             // equation
             // 
             this.equation.AutoSize = true;
-            this.equation.BackColor = System.Drawing.Color.White;
-            this.equation.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.equation.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.equation.Location = new System.Drawing.Point(12, 27);
+            this.equation.BackColor = System.Drawing.Color.RoyalBlue;
+            this.equation.Font = new System.Drawing.Font("Calibri", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.equation.ForeColor = System.Drawing.Color.DarkOrange;
+            this.equation.Location = new System.Drawing.Point(24, 26);
             this.equation.Name = "equation";
-            this.equation.Size = new System.Drawing.Size(0, 24);
+            this.equation.Size = new System.Drawing.Size(0, 35);
             this.equation.TabIndex = 19;
             // 
             // Form1
